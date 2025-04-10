@@ -2,8 +2,8 @@
 
 <p>
   Desenvolvedor Front-end. <br>
-  Fiz parte do time de checkout da Nike Brasil 🏃. <br>
-  Em constante aprendizado, sempre buscando melhorar como desenvolvedor 💡
+  Fiz parte do time do checkout da Nike Brasil 🏃. <br>
+  Em constante aprendizado, sempre buscando melhorar como pessoa e profissional 💡
 </p>
 
 ---
