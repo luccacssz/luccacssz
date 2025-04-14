@@ -11,10 +11,9 @@
 ### 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente explorando um pouco sobre DevOps e SoftSkills  
-- 💡 Curioso por natureza, sempre buscando aprender algo novo  
+- 💡 Sempre buscando aprender algo novo  
 - 🚀 Estudando na <strong>Rocketseat (Ignite)</strong>  
 - 💬 Gosto de trocar ideia sobre React, Next.js, TypeScript e boas experiências de usuário  
-- 🤓 Pronome: ele/dele  
 
 ---
 
